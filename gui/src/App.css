@@ -1,0 +1,66 @@
+.App {
+  font-size: 14px;
+}
+
+.items-list,
+.filter-header {
+  margin: 15px 0 0 15px;
+}
+
+.filter-header input {
+  width: 100%;
+}
+
+.items-list div,
+.filter-header div {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.items-list div:first-child,
+.filter-header div:first-child {
+  width: 20%;
+}
+
+.items-list div:nth-child(2),
+.filter-header div:nth-child(2) {
+  width: 10%;
+}
+
+.items-list div:nth-child(3),
+.filter-header div:nth-child(3) {
+  width: 10%;
+}
+
+.items-list div:nth-child(4),
+.filter-header div:nth-child(4) {
+  width: 20%;
+}
+
+.items-list div:nth-child(5),
+.filter-header div:nth-child(5) {
+  width: 30%;
+}
+
+
+.settings {
+  margin: 15px 0 30px 15px;
+}
+
+.settings * {
+  display: inline-block;
+}
+
+.settings input {
+  margin-left: 10px;
+  width: 50px;
+}
+
+.settings div:nth-child(2) {
+  margin-left: 30px;
+}
+
+.items-list div {
+  vertical-align: top;
+  margin-bottom: 5px;
+}
