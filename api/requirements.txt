@@ -1,4 +1,4 @@
 Flask==1.0.2
 python-dotenv==0.9.1
 Faker==1.0.0
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
